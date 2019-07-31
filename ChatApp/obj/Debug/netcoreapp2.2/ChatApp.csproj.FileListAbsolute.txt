@@ -1,0 +1,11 @@
+c:\users\ankadam\source\repos\ChatApp\ChatApp\bin\Debug\netcoreapp2.2\ChatApp.deps.json
+c:\users\ankadam\source\repos\ChatApp\ChatApp\bin\Debug\netcoreapp2.2\ChatApp.runtimeconfig.json
+c:\users\ankadam\source\repos\ChatApp\ChatApp\bin\Debug\netcoreapp2.2\ChatApp.runtimeconfig.dev.json
+c:\users\ankadam\source\repos\ChatApp\ChatApp\bin\Debug\netcoreapp2.2\ChatApp.dll
+c:\users\ankadam\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp2.2\ChatApp.csproj.CoreCompileInputs.cache
+c:\users\ankadam\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp2.2\ChatApp.AssemblyInfoInputs.cache
+c:\users\ankadam\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp2.2\ChatApp.AssemblyInfo.cs
+c:\users\ankadam\source\repos\ChatApp\ChatApp\bin\Debug\netcoreapp2.2\ChatApp.pdb
+c:\users\ankadam\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp2.2\ChatApp.dll
+c:\users\ankadam\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp2.2\ChatApp.pdb
+c:\Users\ankadam\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp2.2\ChatApp.csprojAssemblyReference.cache

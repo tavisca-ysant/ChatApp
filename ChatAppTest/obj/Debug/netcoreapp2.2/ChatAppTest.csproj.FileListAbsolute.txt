@@ -1,0 +1,17 @@
+c:\Users\ankadam\source\repos\ChatApp\ChatAppTest\obj\Debug\netcoreapp2.2\ChatAppTest.csproj.CoreCompileInputs.cache
+c:\Users\ankadam\source\repos\ChatApp\ChatAppTest\obj\Debug\netcoreapp2.2\ChatAppTest.AssemblyInfoInputs.cache
+c:\Users\ankadam\source\repos\ChatApp\ChatAppTest\obj\Debug\netcoreapp2.2\ChatAppTest.AssemblyInfo.cs
+C:\Users\ankadam\source\repos\ChatApp\ChatAppTest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ankadam\source\repos\ChatApp\ChatAppTest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ankadam\source\repos\ChatApp\ChatAppTest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\ankadam\source\repos\ChatApp\ChatAppTest\bin\Debug\netcoreapp2.2\ChatAppTest.deps.json
+C:\Users\ankadam\source\repos\ChatApp\ChatAppTest\bin\Debug\netcoreapp2.2\ChatAppTest.runtimeconfig.json
+C:\Users\ankadam\source\repos\ChatApp\ChatAppTest\bin\Debug\netcoreapp2.2\ChatAppTest.runtimeconfig.dev.json
+C:\Users\ankadam\source\repos\ChatApp\ChatAppTest\bin\Debug\netcoreapp2.2\ChatAppTest.dll
+C:\Users\ankadam\source\repos\ChatApp\ChatAppTest\bin\Debug\netcoreapp2.2\ChatAppTest.pdb
+C:\Users\ankadam\source\repos\ChatApp\ChatAppTest\bin\Debug\netcoreapp2.2\ChatApp.dll
+C:\Users\ankadam\source\repos\ChatApp\ChatAppTest\bin\Debug\netcoreapp2.2\ChatApp.pdb
+C:\Users\ankadam\source\repos\ChatApp\ChatAppTest\obj\Debug\netcoreapp2.2\ChatAppTest.dll
+C:\Users\ankadam\source\repos\ChatApp\ChatAppTest\obj\Debug\netcoreapp2.2\ChatAppTest.pdb
+c:\Users\ankadam\source\repos\ChatApp\ChatAppTest\obj\Debug\netcoreapp2.2\ChatAppTest.csprojAssemblyReference.cache
+c:\Users\ankadam\source\repos\ChatApp\ChatAppTest\obj\Debug\netcoreapp2.2\ChatAppTest.csproj.CopyComplete
