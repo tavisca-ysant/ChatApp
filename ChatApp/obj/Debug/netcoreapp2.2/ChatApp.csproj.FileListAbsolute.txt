@@ -9,3 +9,14 @@ c:\users\ankadam\source\repos\ChatApp\ChatApp\bin\Debug\netcoreapp2.2\ChatApp.pd
 c:\users\ankadam\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp2.2\ChatApp.dll
 c:\users\ankadam\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp2.2\ChatApp.pdb
 c:\Users\ankadam\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp2.2\ChatApp.csprojAssemblyReference.cache
+C:\Users\ysant\source\work\ChatApp\ChatApp\bin\Debug\netcoreapp2.2\ChatApp.deps.json
+C:\Users\ysant\source\work\ChatApp\ChatApp\bin\Debug\netcoreapp2.2\ChatApp.runtimeconfig.json
+C:\Users\ysant\source\work\ChatApp\ChatApp\bin\Debug\netcoreapp2.2\ChatApp.runtimeconfig.dev.json
+C:\Users\ysant\source\work\ChatApp\ChatApp\bin\Debug\netcoreapp2.2\ChatApp.dll
+C:\Users\ysant\source\work\ChatApp\ChatApp\bin\Debug\netcoreapp2.2\ChatApp.pdb
+C:\Users\ysant\source\work\ChatApp\ChatApp\obj\Debug\netcoreapp2.2\ChatApp.csprojResolveAssemblyReference.cache
+C:\Users\ysant\source\work\ChatApp\ChatApp\obj\Debug\netcoreapp2.2\ChatApp.csproj.CoreCompileInputs.cache
+C:\Users\ysant\source\work\ChatApp\ChatApp\obj\Debug\netcoreapp2.2\ChatApp.AssemblyInfoInputs.cache
+C:\Users\ysant\source\work\ChatApp\ChatApp\obj\Debug\netcoreapp2.2\ChatApp.AssemblyInfo.cs
+C:\Users\ysant\source\work\ChatApp\ChatApp\obj\Debug\netcoreapp2.2\ChatApp.dll
+C:\Users\ysant\source\work\ChatApp\ChatApp\obj\Debug\netcoreapp2.2\ChatApp.pdb

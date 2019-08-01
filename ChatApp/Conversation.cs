@@ -7,10 +7,11 @@ namespace ChatApp
     public class Conversation
     {
         private TcpClient _socket;
-
-        public Conversation(TcpClient socket)
+        private User _user;
+        public Conversation(TcpClient socket, User user)
         {
             this._socket = socket;
+            _user = user;
         }
         public void Send()
         {
@@ -19,18 +20,22 @@ namespace ChatApp
                 NetworkStream networkStream = _socket.GetStream();
                 Thread thread = new Thread(_ => ReceiveData((TcpClient)_));
                 thread.Start(_socket);
-                Console.WriteLine("You : ");
+                //Console.WriteLine("< "+_user+" > ");
                 string message;
-                while(!(string.IsNullOrEmpty(message = Console.ReadLine())) && message != "bye")
+                //Console.Write(_user+": ");
+                while(!(string.IsNullOrEmpty(message = Console.ReadLine())) && message != "bye" && message != "Bye")
                 {
-                    byte[] buffer = Stream.Encode(message);
+
+                    byte[] buffer = Stream.Encode(_user+" : "+message);
                     networkStream.Write(buffer);
                 }
+
                 Console.WriteLine("Disconnected");
-                thread.Join();
+               // thread.Join();
                 networkStream.Close();
                 _socket.Close();
-                Console.ReadKey();
+                System.Environment.Exit(0);
+                
             }
             catch(Exception ex)
             {
@@ -50,10 +55,14 @@ namespace ChatApp
             while ((byte_count = ns.Read(receivedBytes, 0, receivedBytes.Length)) > 0)
             {
                 string DecodedData = Stream.Decode(receivedBytes, byte_count);
-                if (!DecodedData.Equals("bye"))
-                    Console.WriteLine($"received : {DecodedData}");
+                if (!DecodedData.Equals("bye") )
+                    Console.WriteLine($"{DecodedData}");
                 else
+                {
                     System.Environment.Exit(1);
+                    Console.ReadKey();
+                }
+
             }
         }
     }

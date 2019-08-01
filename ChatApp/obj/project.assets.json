@@ -251,11 +251,10 @@
   },
   "libraries": {
     "FluentAssertions/5.7.0": {
-      "sha512": "UBSa5xvpHi8dhrSAZ8q0VGIly6SEHqIP4SfgmvrVvi7YQUZEE+c9gSTPalANw5x3CwNLuafY9SrCM23GiyK9Qg==",
+      "sha512": "xgRluG8jVr3+LQHJ12isUiEhWoZypHHU/kHMNbatvFHXa5iFFEzbljoRTn7oDJ4k91wNKdwbxSm8O77mlc0n7A==",
       "type": "package",
       "path": "fluentassertions/5.7.0",
       "files": [
-        ".nupkg.metadata",
         ".signature.p7s",
         "fluentassertions.5.7.0.nupkg.sha512",
         "fluentassertions.nuspec",
@@ -280,7 +279,7 @@
       ]
     },
     "Microsoft.NETCore.App/2.2.0": {
-      "sha512": "7z5l8Jp324S8bU8+yyWeYHXUFYvKyiI5lqS1dXgTzOx1H69Qbf6df12kCKlNX45LpMfCMd4U3M6p7Rl5Zk7SLA==",
+      "sha512": "QU8taCyeyePwatrj+h+750lMnsPCq3YPaGmsdtSHXPCjDyjto2KT7QDNVet0oRliX4PjaINpyg0Yzd9DnQ/Wkw==",
       "type": "package",
       "path": "microsoft.netcore.app/2.2.0",
       "files": [
@@ -545,7 +544,7 @@
       ]
     },
     "Microsoft.NETCore.DotNetAppHost/2.2.0": {
-      "sha512": "DrhaKInRKKvN6Ns2VNIlC7ZffLOp9THf8cO6X4fytPRJovJUbF49/zzx4WfgX9E44FMsw9hT8hrKiIqDSHvGvA==",
+      "sha512": "qIrVLupwT2NYTrf7KM7Nh+mJr36V5MITVRjyGOByVVCwGmQgQmI/6bjZYQv+QdExi4Cm87eCKJX9FdT6nc00Xg==",
       "type": "package",
       "path": "microsoft.netcore.dotnetapphost/2.2.0",
       "files": [
@@ -559,7 +558,7 @@
       ]
     },
     "Microsoft.NETCore.DotNetHostPolicy/2.2.0": {
-      "sha512": "FJie7IoPZFaPgNDxhZGmDBQP/Bs5vPdfca/G2Wf9gd6LIvMYkZcibtmJwB4tcf4KXkaOYfIOo4Cl9sEPMsSzkw==",
+      "sha512": "usINorQD/B8jsNo9V1+MvAkzFj2QE1yNmAuh4vG5Wsd71EjBAVxFTDAb6mmJQI6wO4j11L1VJuOGMV/86JecWg==",
       "type": "package",
       "path": "microsoft.netcore.dotnethostpolicy/2.2.0",
       "files": [
@@ -573,7 +572,7 @@
       ]
     },
     "Microsoft.NETCore.DotNetHostResolver/2.2.0": {
-      "sha512": "spDm3AJYmebthDNhzY17YLPtvbc+Y1lCLVeiIH1uLJ/hZaM+40pBiPefFR8J1u66Ndkqi8ipR2tEbqPnYnjRhw==",
+      "sha512": "Q3j3KC2ugqIVasf7pO4NRDEn7GysZX3ZH6fAHfbjrP8cYXY9cmHeFcbaniw36q8kFhsPt2EnRHzSsLBpbG6l2Q==",
       "type": "package",
       "path": "microsoft.netcore.dotnethostresolver/2.2.0",
       "files": [
@@ -587,7 +586,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.2.0": {
-      "sha512": "T/J+XZo+YheFTJh8/4uoeJDdz5qOmOMkjg6/VL8mHJ9AnP8+fmV/kcbxeXsob0irRNiChf+V0ig1MCRLp/+Kog==",
+      "sha512": "39+GVHdbm+cmoOjdvm+fhiMbddnuVyUlBdYS8Yhn5xsNaBoTXpgBsxQQlI2Sv9EjIP0F+itG6yrDaOM2OEGupQ==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.2.0",
       "files": [
@@ -748,11 +747,10 @@
       ]
     },
     "System.Configuration.ConfigurationManager/4.4.0": {
-      "sha512": "gWwQv/Ug1qWJmHCmN17nAbxJYmQBM/E94QxKLksvUiiKB1Ld3Sc/eK1lgmbSjDFxkQhVuayI/cGFZhpBSodLrg==",
+      "sha512": "RLYB3YOmdz9dE3zMhBFGv3GF74upGjH0nF0G9lFFRLNLsCEMIpiuQsMGv2qE0qdp1JdheVNO8RIRpUKdokiK+g==",
       "type": "package",
       "path": "system.configuration.configurationmanager/4.4.0",
       "files": [
-        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -769,11 +767,10 @@
       ]
     },
     "System.Security.Cryptography.ProtectedData/4.4.0": {
-      "sha512": "cJV7ScGW7EhatRsjehfvvYVBvtiSMKgN8bOVI0bQhnF5bU7vnHVIsH49Kva7i7GWaWYvmEzkYVk1TC+gZYBEog==",
+      "sha512": "WwEexvBd+17yfY7fcS+fBGl+HADEfCJuKeDJqBT7D6j6vKwYvfLyGuq2y/MmrKORC6mbYwth7kjinO1mPhTL3g==",
       "type": "package",
       "path": "system.security.cryptography.protecteddata/4.4.0",
       "files": [
-        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -817,23 +814,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ankadam\\.nuget\\packages\\": {},
+    "C:\\Users\\ysant\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "c:\\Users\\ankadam\\source\\repos\\ChatApp\\ChatApp\\ChatApp.csproj",
+      "projectUniqueName": "C:\\Users\\ysant\\source\\work\\ChatApp\\ChatApp\\ChatApp.csproj",
       "projectName": "ChatApp",
-      "projectPath": "c:\\Users\\ankadam\\source\\repos\\ChatApp\\ChatApp\\ChatApp.csproj",
-      "packagesPath": "C:\\Users\\ankadam\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\ankadam\\source\\repos\\ChatApp\\ChatApp\\obj\\",
+      "projectPath": "C:\\Users\\ysant\\source\\work\\ChatApp\\ChatApp\\ChatApp.csproj",
+      "packagesPath": "C:\\Users\\ysant\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ysant\\source\\work\\ChatApp\\ChatApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ankadam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ysant\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -859,12 +859,12 @@
         "dependencies": {
           "FluentAssertions": {
             "target": "Package",
-            "version": "[5.7.0, )"
+            "version": "5.7.0"
           },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.2.0, )",
+            "version": "2.2.0",
             "autoReferenced": true
           }
         },

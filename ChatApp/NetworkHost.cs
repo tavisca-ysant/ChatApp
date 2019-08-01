@@ -6,25 +6,36 @@ namespace ChatApp
 {
     public class NetworkHost
     {
+        
+        private User _user;
+        
+        public NetworkHost(User user)
+        {
+            _user = user;
+        }
+
+
         public TcpListener Socket = null;
         public void StartListening()
         {
             try
             {
-                Socket = new TcpListener(localaddr: IPAddress.Any, port: 6666);
+                Socket = new TcpListener(_user.ipAddress, port: 6666);
                 Socket.Start();
 
-                Console.WriteLine("Success");
-                Console.WriteLine("Waiting for connect");
+                
                 while(true)
                 {
+                    Console.WriteLine("Waiting to connect");
+                    
                     TcpClient client = Socket.AcceptTcpClient();
-                   
+                    
                     if (client.Connected)
                     {
-                        Console.WriteLine("Connected");
                         
-                        Conversation conversation = new Conversation(client);
+                        Console.WriteLine("=======Connected ============");
+                        
+                        Conversation conversation = new Conversation(client, _user);
                         conversation.Send();
                     }
                 }
@@ -41,7 +52,7 @@ namespace ChatApp
             Socket.Stop();
         }
 
-        public TcpClient Connect(string ipAddr)
+        public void Connect(string ipAddr)
         {
             
             string ip = ipAddr;
@@ -51,10 +62,10 @@ namespace ChatApp
             {
                 TcpClient client = new TcpClient();
                 client.Connect(ip, port);
-                Console.WriteLine("Connected");
-                Conversation conversation = new Conversation(client);
+                Console.WriteLine($"============Connected============");
+                Conversation conversation = new Conversation(client, _user);
                 conversation.Send();
-                return client;
+               
             }
             catch(Exception ex)
             {
